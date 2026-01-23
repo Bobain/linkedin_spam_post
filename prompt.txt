@@ -1,0 +1,7 @@
+I do not want you to write any code.
+
+In the folder there is a file named prompt_image.txt it contains a description of an image.
+
+Create an image based on the description in the file and save it as prompt_image.gif in the folder output.
+
+In the folder example there is a file named my_text.txt please fix syntax errors in the file, add some emojis to it and save it as my_text_fixed.txt in the folder output.

@@ -1,0 +1,15 @@
+In the folder example create a gif image and name it prompt_image.gif
+
+The gif should be made of two circles the top one should contain a smiley face 
+and the bottom one should contain a smiley face upside down
+
+There should two dotted lines connecting the two circles.
+
+The lines should be dotted and should be animated.
+
+The lines on the left should have have a bold point going from the top to the bottom.
+
+The lines on the right should have have a bold point going from the bottom to the top.
+
+The gif should be animated at 10 fps.
+
