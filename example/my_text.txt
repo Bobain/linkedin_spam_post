@@ -1,13 +1,13 @@
-Do you know about "vide coding"? 
+Do you know what is "vibe coding"? 
 That's fun and addictive, but I never found the secret recipe to make it write a project I would use in production.
 That's great for experiments, but you cannot push the experiment too far.
 
-Some people are doing "vibe angineering", that is to say they are using AI to generate code, 
+Some people are doing "vibe engineering", that is to say they are using AI to generate code, 
 but they know they need to review the code and add some tests 
 (claude code does write some tests but does it write end to end tests?).
 
-I would like to introduce you to a new concept : "vibe bullshit".
+I would like to introduce you to a new concept : "vibe gifing".
 I've seen many posts on Linkedin with nice gifs.
-Obviously the author of the post did not do it himself.
+Obviously the author of the post did not do it himself, but I must admit they probably spent a lot of time to get the right prompt to do it.
 
 DIY : https://github.com/Bobain/linkedin_spam_post
